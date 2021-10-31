@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/LAHSIKI/Formulaire1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LAHSIKI/Formulaire1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<DOCTYPE.HTML>
+    <html>
+    <head>
+        <h1>FORMULAIRE CV <h1>
+    <title>Formulaire </title>
+        </head>
+    <body>
+    <p><h3>Donnez votre Nom et Prénom :<input type="text" ></h3></p>
+    <p><h3>Donnez votre age :<input type="text"></h3></p>
+    <p><h3>Saisir votre adresse :</h3></p>
+     <textarea name="l'adresse personnelle"></textarea>
+    <p><h3>Saisir votre mail :<input type ="text">
+    </h3></p>
+    <p><h3>Saisir votre titre de Cv :<input type ="text">
+    <hr>
+    <p><h2>Saisir votre objectif professionnel :</h3></p>
+     <textarea name="objectif personnel""></textarea>
+     <p><h2>Saisir les formations et diplomes </h3></p>
+     <textarea name="formations et diplomes" "></textarea>
+     <p><h2>Saisir les compétences techniques </h3></p>
+     <textarea name="compétences techniques" "></textarea>
+     <p><h2>Saisir les compétences </h3></p>
+     <textarea name="compétences"></textarea>
+     <p><input type="submit" value ="SUBMIT "></p>
+    
+    <p><h5>Edité par<strong> WALID LAHSIKI</strong></h5></p>
+    <p>Dernière Mise à jour<strong> 31/10/2021</strong></p>
+    <p>Copyright</p>
+    <p>2021/2022</p>
+    
+    
+     
+    </body
+    </html>
